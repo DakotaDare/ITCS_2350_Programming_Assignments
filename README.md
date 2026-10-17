@@ -2,6 +2,7 @@
 <h3> ITCS 2530 - C++ Programming Assignments
 
 <h5> This repository contains the C++ programming assignments for ITCS 2530 completed by Dakota Dare.
+
 ![Color Wheel](https://wikimedia.org)
 
 The project involves creating a tool that can be used to determine possible color schemes for painting plastic minatures using a color wheel and color theory techniques such as complementary, analogous, and triadic color schemes.
