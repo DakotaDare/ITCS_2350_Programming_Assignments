@@ -1,6 +1,6 @@
 <img width="100" align=right alt="istockphoto-colorwheel" src="https://github.com/user-attachments/assets/e01b1994-18e4-46ad-b12a-a75623eec75f" />
-<h2> Dakota Dare
-<h2> ITCS 2530 - C++ Programming Assignments
+<h3> Dakota Dare
+<h3> ITCS 2530 - C++ Programming Assignments
 
 <h5> This repository contains the C++ programming assignments for ITCS 2530 completed by Dakota Dare.
 
